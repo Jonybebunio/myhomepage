@@ -6,3 +6,8 @@ body{
   background-attachment:fixed;
 }
 
+.nav-wrapper{
+  display:flex;
+  justify-content: center;
+}
+
